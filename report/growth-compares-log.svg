@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="420" viewBox="0 0 720 420" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', 'Noto Sans CJK KR', 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif">
+  <rect width="720" height="420" fill="#fbfbf9"/>
+  <text x="20.0" y="30.0" font-size="16" fill="#24292f" text-anchor="start" font-weight="600">n이 커질 때 비교 횟수 — 로그-로그 축</text>
+  <text x="20.0" y="50.0" font-size="11.5" fill="#6e7781" text-anchor="start" font-weight="400">무작위 입력 · 비교 횟수는 시계와 달리 흔들리지 않는다. 세 선이 평행하다 = 차수가 같다</text>
+  <line x1="78.0" y1="362.0" x2="696.0" y2="362.0" stroke="#dfe1e4" stroke-width="1" stroke-dasharray="none"/>
+  <text x="68.0" y="366.0" font-size="10.5" fill="#6e7781" text-anchor="end" font-weight="400">1K</text>
+  <line x1="78.0" y1="304.4" x2="696.0" y2="304.4" stroke="#dfe1e4" stroke-width="1" stroke-dasharray="none"/>
+  <text x="68.0" y="308.4" font-size="10.5" fill="#6e7781" text-anchor="end" font-weight="400">10K</text>
+  <line x1="78.0" y1="246.8" x2="696.0" y2="246.8" stroke="#dfe1e4" stroke-width="1" stroke-dasharray="none"/>
+  <text x="68.0" y="250.8" font-size="10.5" fill="#6e7781" text-anchor="end" font-weight="400">100K</text>
+  <line x1="78.0" y1="189.2" x2="696.0" y2="189.2" stroke="#dfe1e4" stroke-width="1" stroke-dasharray="none"/>
+  <text x="68.0" y="193.2" font-size="10.5" fill="#6e7781" text-anchor="end" font-weight="400">1M</text>
+  <line x1="78.0" y1="131.6" x2="696.0" y2="131.6" stroke="#dfe1e4" stroke-width="1" stroke-dasharray="none"/>
+  <text x="68.0" y="135.6" font-size="10.5" fill="#6e7781" text-anchor="end" font-weight="400">10M</text>
+  <line x1="78.0" y1="74.0" x2="696.0" y2="74.0" stroke="#dfe1e4" stroke-width="1" stroke-dasharray="none"/>
+  <text x="68.0" y="78.0" font-size="10.5" fill="#6e7781" text-anchor="end" font-weight="400">100M</text>
+  <line x1="78.0" y1="74.0" x2="78.0" y2="362.0" stroke="#dfe1e4" stroke-width="1" stroke-dasharray="2 4"/>
+  <text x="78.0" y="380.0" font-size="10.5" fill="#6e7781" text-anchor="middle" font-weight="400">1,000</text>
+  <line x1="201.6" y1="74.0" x2="201.6" y2="362.0" stroke="#dfe1e4" stroke-width="1" stroke-dasharray="2 4"/>
+  <text x="201.6" y="380.0" font-size="10.5" fill="#6e7781" text-anchor="middle" font-weight="400">4,000</text>
+  <line x1="325.2" y1="74.0" x2="325.2" y2="362.0" stroke="#dfe1e4" stroke-width="1" stroke-dasharray="2 4"/>
+  <text x="325.2" y="380.0" font-size="10.5" fill="#6e7781" text-anchor="middle" font-weight="400">16,000</text>
+  <line x1="448.8" y1="74.0" x2="448.8" y2="362.0" stroke="#dfe1e4" stroke-width="1" stroke-dasharray="2 4"/>
+  <text x="448.8" y="380.0" font-size="10.5" fill="#6e7781" text-anchor="middle" font-weight="400">64,000</text>
+  <line x1="572.4" y1="74.0" x2="572.4" y2="362.0" stroke="#dfe1e4" stroke-width="1" stroke-dasharray="2 4"/>
+  <text x="572.4" y="380.0" font-size="10.5" fill="#6e7781" text-anchor="middle" font-weight="400">256,000</text>
+  <line x1="696.0" y1="74.0" x2="696.0" y2="362.0" stroke="#dfe1e4" stroke-width="1" stroke-dasharray="2 4"/>
+  <text x="696.0" y="380.0" font-size="10.5" fill="#6e7781" text-anchor="middle" font-weight="400">1,024,000</text>
+  <line x1="78.0" y1="362.0" x2="696.0" y2="362.0" stroke="#6e7781" stroke-width="1" stroke-dasharray="none"/>
+  <line x1="78.0" y1="74.0" x2="78.0" y2="362.0" stroke="#6e7781" stroke-width="1" stroke-dasharray="none"/>
+  <text x="387.0" y="406.0" font-size="11.5" fill="#6e7781" text-anchor="middle" font-weight="400">n (원소 개수)</text>
+  <text x="20.0" y="60.0" font-size="11.5" fill="#6e7781" text-anchor="start" font-weight="400">비교 횟수</text>
+  <polyline points="78.0,307.8 201.6,268.0 325.2,229.0 448.8,190.7 572.4,152.8 696.0,115.3" fill="none" stroke="#0072B2" stroke-width="2.2" stroke-dasharray="none" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="78.0" cy="307.8" r="3.4" fill="#0072B2"/>
+  <circle cx="201.6" cy="268.0" r="3.4" fill="#0072B2"/>
+  <circle cx="325.2" cy="229.0" r="3.4" fill="#0072B2"/>
+  <circle cx="448.8" cy="190.7" r="3.4" fill="#0072B2"/>
+  <circle cx="572.4" cy="152.8" r="3.4" fill="#0072B2"/>
+  <circle cx="696.0" cy="115.3" r="3.4" fill="#0072B2"/>
+  <text x="690.0" y="104.3" font-size="11" fill="#0072B2" text-anchor="end" font-weight="600">기울기 1.11</text>
+  <polyline points="78.0,300.8 201.6,263.4 325.2,222.3 448.8,183.3 572.4,147.1 696.0,108.3" fill="none" stroke="#E69F00" stroke-width="2.2" stroke-dasharray="7 4" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="78.0" cy="300.8" r="3.4" fill="#E69F00"/>
+  <circle cx="201.6" cy="263.4" r="3.4" fill="#E69F00"/>
+  <circle cx="325.2" cy="222.3" r="3.4" fill="#E69F00"/>
+  <circle cx="448.8" cy="183.3" r="3.4" fill="#E69F00"/>
+  <circle cx="572.4" cy="147.1" r="3.4" fill="#E69F00"/>
+  <circle cx="696.0" cy="108.3" r="3.4" fill="#E69F00"/>
+  <text x="690.0" y="97.3" font-size="11" fill="#E69F00" text-anchor="end" font-weight="600">기울기 1.11</text>
+  <polyline points="78.0,291.3 201.6,251.3 325.2,212.3 448.8,173.9 572.4,135.9 696.0,98.4" fill="none" stroke="#009E73" stroke-width="2.2" stroke-dasharray="2 3" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="78.0" cy="291.3" r="3.4" fill="#009E73"/>
+  <circle cx="201.6" cy="251.3" r="3.4" fill="#009E73"/>
+  <circle cx="325.2" cy="212.3" r="3.4" fill="#009E73"/>
+  <circle cx="448.8" cy="173.9" r="3.4" fill="#009E73"/>
+  <circle cx="572.4" cy="135.9" r="3.4" fill="#009E73"/>
+  <circle cx="696.0" cy="98.4" r="3.4" fill="#009E73"/>
+  <text x="690.0" y="87.4" font-size="11" fill="#009E73" text-anchor="end" font-weight="600">기울기 1.11</text>
+  <line x1="78.0" y1="386.0" x2="100.0" y2="386.0" stroke="#0072B2" stroke-width="2.4" stroke-dasharray="none"/>
+  <circle cx="89.0" cy="386.0" r="3" fill="#0072B2"/>
+  <text x="106.0" y="390.0" font-size="11.5" fill="#24292f" text-anchor="start" font-weight="400">mergeSort</text>
+  <line x1="183.4" y1="386.0" x2="205.4" y2="386.0" stroke="#E69F00" stroke-width="2.4" stroke-dasharray="7 4"/>
+  <circle cx="194.4" cy="386.0" r="3" fill="#E69F00"/>
+  <text x="211.4" y="390.0" font-size="11.5" fill="#24292f" text-anchor="start" font-weight="400">quickSort</text>
+  <line x1="288.8" y1="386.0" x2="310.8" y2="386.0" stroke="#009E73" stroke-width="2.4" stroke-dasharray="2 3"/>
+  <circle cx="299.8" cy="386.0" r="3" fill="#009E73"/>
+  <text x="316.8" y="390.0" font-size="11.5" fill="#24292f" text-anchor="start" font-weight="400">heapSort</text>
+</svg>
